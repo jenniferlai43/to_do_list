@@ -10,4 +10,4 @@ If more files for  .\Practice\ should be added. They will be added very soon.
 
 ===
 
-Note my code. Kept here purely for educational purposes.
+Not my code. Purely for educational purposes.
